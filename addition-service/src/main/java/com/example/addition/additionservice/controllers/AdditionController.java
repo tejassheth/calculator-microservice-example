@@ -1,4 +1,4 @@
-package com.example.addition.additionservice;
+package com.example.addition.additionservice.controllers;
 
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
